@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Monochrome surfaces for the AstralOS Quick Settings panel. -->
+    <color name="system_under_surface_light">#000000</color>
+    <color name="system_shade_active_light">#C5C9CC</color>
+    <color name="system_on_shade_active_light">#17191B</color>
+    <color name="system_on_shade_active_variant_light">#424649</color>
+    <color name="system_shade_inactive_light">#171B1D</color>
+    <color name="system_on_shade_inactive_light">#E4E6E7</color>
+    <color name="system_on_shade_inactive_variant_light">#B9BDBF</color>
+    <color name="system_shade_disabled_light">#34383A</color>
+
+    <color name="system_under_surface_dark">#000000</color>
+    <color name="system_shade_active_dark">#C5C9CC</color>
+    <color name="system_on_shade_active_dark">#17191B</color>
+    <color name="system_on_shade_active_variant_dark">#424649</color>
+    <color name="system_shade_inactive_dark">#171B1D</color>
+    <color name="system_on_shade_inactive_dark">#E4E6E7</color>
+    <color name="system_on_shade_inactive_variant_dark">#B9BDBF</color>
+    <color name="system_shade_disabled_dark">#34383A</color>
+</resources>
